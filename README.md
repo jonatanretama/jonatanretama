@@ -15,7 +15,7 @@
 <a href="https://fb.com/jonatanretama" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jonatanretama" height="30" width="30" /></a>
 <a href="https://instagram.com/jonatanretama" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jonatanretama" height="30" width="30" /></a>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jonatanretama" alt="jonatanretama" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=jonatanretama" alt="jonatanretama" /> </p>
 <!--
 **jonatanretama/jonatanretama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
