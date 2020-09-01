@@ -1,5 +1,5 @@
 ### Hola a todos! 👋
-
+<body background-color:#f0f0f0>
 <h1 align="center">Que tal, mi nombre es Jonatan Retama 🙋</h1>
 <h3 align="center">Soy un apasionado de la tecnología, me encanta desarrollar software y sobre todo, vivir la vida!📱💻🔥</h3>
 <h4> 📖 Técnico en Programación. </h4>
@@ -18,6 +18,7 @@
 <a href="https://account.xbox.com/es-mx/profile?gamertag=i7VFz lSnupi" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/xbox.svg" alt="jonatanretama" height="30" width="30"/></a>
 </p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=jonatanretama" alt="jonatanretama" /> </p>
+</body>
 <!--
 **jonatanretama/jonatanretama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
