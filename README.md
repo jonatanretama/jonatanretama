@@ -15,7 +15,7 @@
 <a href="https://stackoverflow.com/users/11501499" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="11501499" height="30" width="30" /></a>
 <a href="https://fb.com/jonatanretama" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jonatanretama" height="30" width="30" /></a>
 <a href="https://instagram.com/jonatanretama" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jonatanretama" height="30" width="30" /></a>
-<a href="https://account.xbox.com/es-mx/profile?gamertag=i7VFz lSnupi" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/xbox.svg" alt="jonatanretama" height="30" width="30" /></a>
+<a href="https://account.xbox.com/es-mx/profile?gamertag=i7VFz lSnupi" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/xbox.svg" alt="jonatanretama" height="30" width="30" target="_blank"/></a>
 </p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=jonatanretama" alt="jonatanretama" /> </p>
 <!--
