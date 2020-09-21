@@ -1,7 +1,7 @@
 ### Hola a todos! 👋
 
 <h1 align="center">Que tal, mi nombre es Jonatan Retama 🙋</h1>
-<h3 align="center">Soy un apasionado de la tecnología, me encanta desarrollar software y sobre todo, vivir la vida!📱💻🔥</h3>
+<h3 align="center">Soy un apasionado de la tecnología, me encanta desarrollar software y tener grandes retos!📱💻🔥</h3>
 <h4> 📖 Técnico en Programación. </h4>
 <h4> 🎓 Ing. Sistemas Computacionales.</h4>
 
