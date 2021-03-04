@@ -6,10 +6,8 @@
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonatanretama&show_icons=true" alt="jonatanretama" /></p> -->
 
 <p align="center">
-<a href="https://codepen.io/jonatanretama" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="jonatanretama" height="30" width="30" /></a>
 <a href="https://twitter.com/jonatanretama" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jonatanretama" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/jonatan-joel-luna-retama-213571187" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jonatan-joel-luna-retama-213571187" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/11501499" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="11501499" height="30" width="30" /></a>
 <a href="https://fb.com/jonatanretama" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jonatanretama" height="30" width="30" /></a>
 <a href="https://instagram.com/jonatanretama" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jonatanretama" height="30" width="30" /></a>
 <a href="https://account.xbox.com/es-mx/profile?gamertag=i7VFz lSnupi" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/xbox.svg" alt="jonatanretama" height="30" width="30"/></a>
